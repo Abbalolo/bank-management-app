@@ -61,4 +61,3 @@ The `BankAccount` class is a fundamental part of your code, representing a bank 
 
 - Try-catch blocks are used to catch exceptions that may occur during deposit and withdrawal operations. The `finally` block is used for cleanup operations, such as hiding the form, ensuring that certain code executes regardless of whether an exception occurs or not.
 
-Overall, your code demonstrates a well-structured web application with good error handling, data persistence, and user interface interaction. It makes effective use of classes, switch statements, and try-catch-finally statements to create a functional banking website.
